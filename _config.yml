@@ -1,1 +1,4 @@
-theme: jekyll-theme-merlot
+title: taku-mami
+description: I like to simplify the problem.
+show_downloads: true
+theme: jekyll-theme-cayman
